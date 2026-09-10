@@ -1,3 +1,0 @@
-webrtcvad
-numpy
-soundfile
